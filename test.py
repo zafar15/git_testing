@@ -16,7 +16,3 @@ for side in [1,2,3,4, 5, 6]:
     elen.right(300)
 
 wn.exitonclick()
-
-print("Hi world of Python")
-for _ in range(10):
-    print("\n Best of luck")
