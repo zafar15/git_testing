@@ -17,5 +17,4 @@ for _ in range(6):
 
 wn.exitonclick()
 
-input("Enter your name")
 print("New file in python")
