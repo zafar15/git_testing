@@ -6,7 +6,7 @@ elen = turtle.Turtle()
 elen.color("brown")
 elen.width(12)
 
-for side in [1,2,3,4, 5, 6]:
+for _ in range(6):
     elen.penup()
     elen.forward(20)
     elen.pendown()
