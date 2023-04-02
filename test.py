@@ -12,7 +12,7 @@ for _ in range(6):
     elen.pendown()
     for _ in range(6):
         elen.right(60)
-        elen.forward(80)
+        elen.forward(60)
     elen.right(300)
 
 wn.exitonclick()
