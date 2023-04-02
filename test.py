@@ -16,5 +16,3 @@ for _ in range(6):
     elen.right(300)
 
 wn.exitonclick()
-
-print("New file in python")
