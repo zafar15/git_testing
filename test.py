@@ -16,3 +16,5 @@ for side in [1,2,3,4, 5, 6]:
     elen.right(300)
 
 wn.exitonclick()
+
+print("New file in python")
