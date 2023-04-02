@@ -18,3 +18,4 @@ for side in [1,2,3,4, 5, 6]:
 wn.exitonclick()
 
 input("Enter your name")
+print("New file in python")
